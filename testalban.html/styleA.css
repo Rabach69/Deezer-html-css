@@ -1,0 +1,17 @@
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    color: black;
+}
+.bGBlack{
+    background-color: black;
+    color: white;
+}
+#textRed{
+    color: red;
+}
+

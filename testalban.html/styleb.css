@@ -1,0 +1,28 @@
+h1{
+    font-size: 40px; text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; color: red;
+}
+h2{
+    font-size: 60px; text-align: center;
+}
+body{
+background-color: blueviolet; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: black; text-align: center;
+}
+.bGBlack{
+    background-color: white;
+    color: white;
+}
+#textRed{
+    color: black;
+}
+.left {
+    text-align: left;
+}
+.menu {
+    background-color: rgba(29, 27, 83, 0.662); font-size: 30px; font-style: italic;
+    color: black;
+    border: black 5px solid;
+    padding: 40px;
+}

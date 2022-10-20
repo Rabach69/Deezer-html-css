@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey;
+    width: 100%;
+    height: 40vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+  }
+  .container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    width: 100%;
+    height: 40vh;
+  }
+  
+  .container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    width: 100%;
+    height: 40vh;
+    flex-direction: column;
+  }
+  .microcube {
+    background-color: #fff;
+    width: 5%;
+    height: 5%;
+  }
+  
+  .cube {
+    width: 30%;
+    height: 30vh;
+  }
+  .cube2 {
+    width: 20%;
+    height: 20vh;
+  }
+  .cube3 {
+    width: 10%;
+    height: 10vh;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  .blue {
+    background-color: blue;
+  }
+  .green {
+    background-color: green;
+  }
+  .teal {
+    background-color: teal;
+  }
+  .black {
+    background-color: black;
+  }
+  .purple {
+    background-color: purple;
+  }
